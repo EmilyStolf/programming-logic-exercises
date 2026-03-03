@@ -1,4 +1,4 @@
-Algoritmo "exercicio4.alg"
+Algoritmo "Operacoes"
 Var
   N1,N2,Soma,Subtracao,Multiplicacao,Divisao:real
 Inicio
