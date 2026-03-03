@@ -1,7 +1,7 @@
-Algoritmo "exercicio2.alg"
+Algoritmo "Mensagem"
 Var
   msg:caractere 
 Inicio
-    msg<-("Hello World")
+    msg<-"Hello World"
     escreva("Mensagem ",msg)
 Fimalgoritmo
