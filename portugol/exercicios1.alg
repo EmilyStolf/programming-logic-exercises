@@ -1,4 +1,4 @@
-Algoritmo "exercicio1.alg"
+Algoritmo "Hello World"
 Var
 Inicio
       escreva("Hello World")
