@@ -1,4 +1,4 @@
-Algoritmo "exercicio1.alg"
+Algoritmo "SomadedoisNumeros"
 Var
   N1,N2,S:inteiro
 Inicio
