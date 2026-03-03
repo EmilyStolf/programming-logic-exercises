@@ -3,5 +3,5 @@ Var
   msg:caractere 
 Inicio
     msg<-("Hello World")
-    escreva(msg)
+    escreva("Mensagem ",msg)
 Fimalgoritmo
